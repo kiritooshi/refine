@@ -60,7 +60,7 @@ Start a new project with Refine in seconds using the following command:
 npm create refine-app@latest my-refine-app
 ```
 
-Or you can create a new project on your browser:
+Or you can create a new project on your browser: 
 
 <a href="https://refine.dev/?playground=true" target="_blank">
   <img height="48" width="245" src="https://refine.ams3.cdn.digitaloceanspaces.com/assets/try-it-in-your-browser.png" />
